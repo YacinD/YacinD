@@ -1,3 +1,5 @@
+![Banner](./banner3.png)
+
 <h1 align="center">Hey there! My name is Yacin</h1>
 <h3 align="center">A DevOps engineer who enjoys breaking down hard problems and building efficient, resilient solutions.
 </h3>
@@ -6,12 +8,15 @@
   <img src="https://komarev.com/ghpvc/?username=Yacin&label=Profile%20views&color=FF0000&style=flat" />
 </p>
 
+
 <p align="center">
-  
-  <a href="mailto:YacinDjama@hotmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="32" />
-  </a>
-  &nbsp;&nbsp;
+<a href="mailto:Yacin.Djama@hotmail.com">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Dark.svg" width="32" />
+</a>
+
+ </svg>
+</a>
+   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/YacinDjama">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
   </a>
@@ -23,9 +28,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,aws,terraform,kubernetes,vscode,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,docker,aws,terraform,kubernetes,vscode,github,gitlab" />
   </a>
 </p>
+
+---
+
 
 ## 📎 - Projects
 
