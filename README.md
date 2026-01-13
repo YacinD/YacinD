@@ -1,4 +1,4 @@
-![Banner](./banner3.png)
+![Banner](DEVOPS.png)
 
 <h1 align="center">Hey there! My name is Yacin</h1>
 <h3 align="center">A DevOps engineer who enjoys breaking down hard problems and building efficient, resilient solutions.
