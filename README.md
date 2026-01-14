@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,docker,aws,terraform,kubernetes,vscode,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,docker,aws,terraform,kubernetes,vscode,github," />
   </a>
 </p>
 
