@@ -1,7 +1,7 @@
 ![Banner](DEVOPS.png)
 
 <h1 align="center">Hey there! My name is Yacin</h1>
-<h3 align="center">Devops Engineer
+<h3 align="center">Devops Engineer Student
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,docker,aws,terraform,kubernetes,vscode,github,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,vscode,github,cloudflare" />
   </a>
 </p>
 
