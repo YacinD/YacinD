@@ -37,3 +37,4 @@
 
 ## 📎 - Projects
 
+AWS EC2 Deployment: NGINX Web Server with Cloudflare DNS & SSL:
