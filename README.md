@@ -35,9 +35,3 @@
 ---
 
 ## 📎 - Projects
-
-AWS EC2 Deployment: NGINX Web Server with Cloudflare DNS & SSL:
-
-
-![Yacin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YacinD&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YacinD&layout=compact&theme=tokyonight)
