@@ -1,5 +1,3 @@
-![Banner](DEVOPS.png)
-
 <h1 align="center">Hey there! My name is Yacin</h1>
 <h3 align="center"> Devops Engineer Student
 </h3>
