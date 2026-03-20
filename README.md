@@ -1,4 +1,4 @@
-![Banner](devops-security.webp)
+![Banner](Code.png)
 
 <h1 align="center">Hey there! My name is Yacin</h1>
 <h3 align="center"> Junior Devops Engineer
