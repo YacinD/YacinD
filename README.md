@@ -32,6 +32,6 @@
 
 ---
 
-## 📎 - Projects
+## 📂 - Projects
 
 COMING SOON
