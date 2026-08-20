@@ -34,5 +34,5 @@
 
 ## 📂 Projects
 
-### 🚀 [ECS Fargate Deployment](https://github.com/YacinD/ECS-Project) — [ecsv1.online](https://ecsv1.online)
+### 🚀 PENDING) — IN PROGRESS
 Containerised Flask app deployed to AWS ECS Fargate with full infrastructure as code. Custom VPC, ALB, HTTPS via ACM, ECR, and three GitHub Actions pipelines for automated builds and deployments. Built with Terraform modules and remote S3 state.
