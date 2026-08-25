@@ -38,4 +38,3 @@
 |---|---|
 | [Memos Fargate Deployment](https://github.com/YacinD/memos-fargate-deployment) | Zero-to-HTTPS on Fargate: custom VPC → ALB → ECS → ACM → Route 53, no public IPs on the task. Built ClickOps-first as a reference architecture, now being rebuilt in Terraform. |
 | [Terraform WordPress on AWS](https://github.com/YacinD/terraform-wordpress-aws) | One command to a live WordPress site: EC2 provisioned, Apache/PHP/WordPress installed via user data, security groups locked to HTTP/SSH — public IP and site URL spat out as Terraform outputs. |
-=======
