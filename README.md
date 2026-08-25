@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yacin&label=Profile%20views&color=FF0000&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Yacin&label=Profile%20views&color=800080&style=flat" />
 </p>
 
 
@@ -13,7 +13,6 @@
 <a href="mailto:Yacin.Djama@hotmail.com">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Dark.svg" width="32" />
 </a>
-
  </svg>
 </a>
    &nbsp;&nbsp;
@@ -32,7 +31,9 @@
 
 ---
 
-## 📂 Projects
+## 📂 Project Showcase
 
-### 🚀 [ECS Fargate Deployment](https://github.com/YacinD/ECS-Project) — [ecsv1.online](https://ecsv1.online)
-Containerised Flask app deployed to AWS ECS Fargate with full infrastructure as code. Custom VPC, ALB, HTTPS via ACM, ECR, and three GitHub Actions pipelines for automated builds and deployments. Built with Terraform modules and remote S3 state.
+| Project | What It Does |
+|---|---|
+| [Memos Fargate Deployment](https://github.com/YacinD/memos-fargate-deployment) | Zero-to-HTTPS on Fargate: custom VPC → ALB → ECS → ACM → Route 53, no public IPs on the task. Built ClickOps-first as a reference architecture, now being rebuilt in Terraform. |
+| [Terraform WordPress on AWS](https://github.com/YacinD/terraform-wordpress-aws) | One command to a live WordPress site: EC2 provisioned, Apache/PHP/WordPress installed via user data, security groups locked to HTTP/SSH — public IP and site URL spat out as Terraform outputs. |
