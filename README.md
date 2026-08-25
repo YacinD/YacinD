@@ -39,6 +39,3 @@
 | [Memos Fargate Deployment](https://github.com/YacinD/memos-fargate-deployment) | Zero-to-HTTPS on Fargate: custom VPC → ALB → ECS → ACM → Route 53, no public IPs on the task. Built ClickOps-first as a reference architecture, now being rebuilt in Terraform. |
 | [Terraform WordPress on AWS](https://github.com/YacinD/terraform-wordpress-aws) | One command to a live WordPress site: EC2 provisioned, Apache/PHP/WordPress installed via user data, security groups locked to HTTP/SSH — public IP and site URL spat out as Terraform outputs. |
 =======
-### 🚀 PENDING) — IN PROGRESS
-Containerised Flask app deployed to AWS ECS Fargate with full infrastructure as code. Custom VPC, ALB, HTTPS via ACM, ECR, and three GitHub Actions pipelines for automated builds and deployments. Built with Terraform modules and remote S3 state.
->>>>>>> 7ac19cc86a3284d2f7c66bd1b3100fa9a5edf76a
