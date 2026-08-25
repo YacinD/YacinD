@@ -33,7 +33,6 @@
 
 ## 📂 Project Showcase
 
-<<<<<<< HEAD
 | Project | What It Does |
 |---|---|
 | [Memos Fargate Deployment](https://github.com/YacinD/memos-fargate-deployment) | Zero-to-HTTPS on Fargate: custom VPC → ALB → ECS → ACM → Route 53, no public IPs on the task. Built ClickOps-first as a reference architecture, now being rebuilt in Terraform. |
